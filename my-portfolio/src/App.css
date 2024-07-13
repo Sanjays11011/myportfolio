@@ -7,14 +7,24 @@ header ul li{
 }
 
 .bg-primary{
-  background:#6E6E6E;
+  background:#989494;
 }
 
-.mobile-nav{
-  @apply fixed top-16 right-0 w-1/2 h-1/4 bg-black;
+@media (max-width: 640px) {
+  .about-height {
+      height: 180vh; /* Adjust as needed */
+  }
 }
 
-.mobile-nav li{
-  @apply w-full text-center h-full;
+@media (max-width: 640px) {
+  .skills-height {
+      height: 200vh; /* Adjust as needed */
+  }
 }
+
+.bg-secondary{
+  background: #626262;
+}
+
+
 
