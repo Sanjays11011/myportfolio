@@ -4,6 +4,7 @@
 
 html,body{
   overflow-x: hidden;
+  height: -webkit-fill-available;
 }
 header ul li{
   @apply px-4 cursor-pointer
