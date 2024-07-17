@@ -6,9 +6,7 @@ import xlogo from '../assets/twitter-logo.png';
 import linkedinlogo from '../assets/linkedin.png';
 export default function Contact() {
     return <section className="w-svw h-svh bg-[#3c3c3c] text-white">
-        <div className="w-full h-1/6">
-        <h1 className="text-3xl font-bold text-lime-400 text-center py-10">Contact me</h1>
-        </div>
+        <h1 className="text-3xl font-bold text-lime-400 text-center py-10 gap-3">Contact me</h1>
         <div className = "w-full h-3/4 flex flex-wrap items-center justify-around">
         <div className="w-full md:w-1/2 md:h-3/4 h-1/2 flex flex-col ">
   <div className="flex items-center px-20 mb-5">
