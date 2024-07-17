@@ -33,9 +33,9 @@ export default function Contact() {
     </div>
   </div>
   <div className="flex ml-20 gap-3">
-        <img className="w-10 h-10 cursor-pointer" src={instagramlogo}></img>
-        <img className="w-10 h-10 cursor-pointer" src={xlogo}></img>
-        <img className="w-10 h-10 cursor-pointer" src={linkedinlogo}></img>
+        <img className="w-10 h-10 cursor-pointer" src={instagramlogo} alt="name"></img>
+        <img className="w-10 h-10 cursor-pointer" src={xlogo} alt="name"></img>
+        <img className="w-10 h-10 cursor-pointer" src={linkedinlogo} alt="name"></img>
 
     </div>
 </div>
