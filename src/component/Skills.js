@@ -76,7 +76,7 @@ export default function Skills() {
         <div className="md:mt-5 w-full md:h-1/4 h-1/3">
         <h1 className="font-bold text-3xl md:px-20 md:py-0 px-5 flex">Database</h1>
         <div className="w-1/2 h-1/3 md:h-3/4  flex flex-wrap ml-3 md:gap-2 gap-4 md:items-center">
-            <img className='w-16 h-16 md:w-0.7/4 md:h-3/4' src={mysql}/>
+            <img className='w-16 h-16 md:w-0.7/4 md:h-3/4' src={mysql} alt="mysql"/>
             </div>
         </div>
     </section>
