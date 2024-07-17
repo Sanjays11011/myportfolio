@@ -2,7 +2,6 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sanjays11011.github.io/myportfolio",
   "dependencies": {
     "@heroicons/react": "^2.1.5",
     "@testing-library/jest-dom": "^5.17.0",
