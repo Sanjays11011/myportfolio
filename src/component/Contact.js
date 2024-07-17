@@ -9,8 +9,8 @@ export default function Contact() {
         <div className="w-full h-1/6">
         <h1 className="text-3xl font-bold text-lime-400 text-center py-10">Contact me</h1>
         </div>
-        <div className = "w-full h-3/4 flex flex-col md:flex-row items-center justify-between">
-        <div className="w-full md:w-1/2 h-3/4 flex flex-col">
+        <div className = "w-full h-3/4 flex flex-wrap items-center justify-around">
+        <div className="w-full md:w-1/2 md:h-3/4 h-1/2 flex flex-col ">
   <div className="flex items-center px-20 mb-5">
     <img className="w-10 h-10" src={person} alt="name" />
     <div className="ml-4">
@@ -41,7 +41,7 @@ export default function Contact() {
 </div>
 
          
-<form className="w-full md:w-1/3 h-3/4 flex flex-col md:ml-0 ml-6 right-0 md:right-2">
+<form className="w-full md:w-1/3 md:h-3/4 h-1/2 flex flex-col md:ml-0 ml-6 right-0 md:right-2">
   <p className="text-xl font-bold text-lime-400 mb-5">Message Me</p>
   
   <div className="flex mb-2">
