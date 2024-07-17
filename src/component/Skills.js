@@ -64,8 +64,8 @@ export default function Skills() {
 
         </div>
         <div className=" w-full md:w-1/2 md:h-1/4 h-1/3">
-        <h1 className="font-bold text-3xl md:px-20 md:py-0 py-16 px-5 flex">Back-End</h1>
-        <div className="w-1/2 h-1/3 md:h-3/4  flex flex-wrap ml-3 md:gap-8 gap-4 md:items-center">
+        <h1 className="font-bold text-3xl md:px-20 md:py-0 py-16 px-5 flex">Programming Languages</h1>
+        <div className="w-1/2 h-1/3 md:h-3/4  flex flex-row ml-3 md:gap-8 gap-4 md:items-center">
         {
             backEndImages.map((images,index) => (
                 <img key={index} className="w-16 h-16 md:w-0.7/4 md:h-16" src={images.src} alt={images.alt}/>
@@ -75,7 +75,7 @@ export default function Skills() {
         </div>
         <div className="md:mt-5 w-full md:h-1/4 h-1/3">
         <h1 className="font-bold text-3xl md:px-20 md:py-0 px-5 flex">Database</h1>
-        <div className="w-1/2 h-1/3 md:h-3/4  flex flex-wrap ml-3 md:gap-2 gap-4 md:items-center">
+        <div className="w-1/2 h-1/3 md:h-3/4  flex flex-row ml-3 md:gap-2 gap-4 md:items-center">
             <img className='w-16 h-16 md:w-0.7/4 md:h-3/4' src={mysql} alt="mysql"/>
             </div>
         </div>
