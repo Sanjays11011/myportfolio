@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5eca86f2.css",
+    "main.js": "/static/js/main.e3494296.js",
+    "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
+    "static/media/css-logo.png": "/static/media/css-logo.3bd8f9cdaf30d5c3ae73.png",
+    "static/media/hero.jpg": "/static/media/hero.9176551daf77401613d1.jpg",
+    "static/media/javascript-logo.webp": "/static/media/javascript-logo.74c3367ecd92d0c18674.webp",
+    "static/media/python-logo.webp": "/static/media/python-logo.27a5d4bf480c5366948d.webp",
+    "static/media/c-logo.png": "/static/media/c-logo.7c7d8c366caefc39b735.png",
+    "static/media/instagram-logo.png": "/static/media/instagram-logo.734a95643ee0100baeca.png",
+    "static/media/mysql-logo.png": "/static/media/mysql-logo.60fe462b4dec8bbc0292.png",
+    "static/media/html-logo.png": "/static/media/html-logo.afd7f9dad185550ca985.png",
+    "static/media/java-logo.png": "/static/media/java-logo.44b65100370243570faa.png",
+    "static/media/location.png": "/static/media/location.488ef4a9284dfd3ddd6e.png",
+    "static/media/react-logo.png": "/static/media/react-logo.69f6b9a9a2e3d1ebbf7c.png",
+    "static/media/person-icon.webp": "/static/media/person-icon.90ef15d2b0fbc3d0d627.webp",
+    "static/media/Tailwind_CSS_Logo.svg.png": "/static/media/Tailwind_CSS_Logo.svg.11cb6152b4f48291782a.png",
+    "static/media/mail.webp": "/static/media/mail.525b611ce00f62b14059.webp",
+    "static/media/twitter-logo.png": "/static/media/twitter-logo.d74d7cef2155f5a3d688.png",
+    "index.html": "/index.html",
+    "main.5eca86f2.css.map": "/static/css/main.5eca86f2.css.map",
+    "main.e3494296.js.map": "/static/js/main.e3494296.js.map",
+    "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5eca86f2.css",
+    "static/js/main.e3494296.js"
+  ]
+}
