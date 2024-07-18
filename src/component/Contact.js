@@ -39,7 +39,7 @@ export default function Contact() {
 </div>
 
          
-<form className="w-full md:w-1/3 md:h-3/4 h-1/2 flex flex-col md:ml-0 ml-6 right-0 md:right-2">
+<form className="w-full md:w-1/3 md:h-3/4 h-1/2 flex flex-col md:ml-0 ml-6 md:mt-0 mt-3 right-0 md:right-2">
   <p className="text-xl font-bold text-lime-400 mb-5">Message Me</p>
   
   <div className="flex mb-2">
